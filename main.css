@@ -1,6 +1,6 @@
 :root {
     --primary-color: #9B2915;
-    --body-bg: #F2E6C1;
+    --body-bg: white;
     --header-bg: #FFFCF7;    
     --debug-border: 1px solid var(--primary-color);            
     /**/
